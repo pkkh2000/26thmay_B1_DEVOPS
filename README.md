@@ -2,7 +2,7 @@
 
 <img src="task1.png">
 
-"""
+""
 cd Desktop/Task1/mkdir -p A/{B/{D/K/N/LNB,E/K/N/LNB,E/J/M/LNB,F/J/M/LNB,F/I/N/LNB},C/{G/I/N/LNB,G/L/M/LNB,H/L/M/LNB}}
 
 .:
@@ -103,4 +103,4 @@ M
 LNB
 
 ./A/C/H/L/M/LNB:
-"""
+""
