@@ -1,6 +1,6 @@
 # TASK
 ## 1. Create a volume using  AWS EBS and attach to your ubuntu instance and mount it to /root/welcome
-<img src="ebs.png"> // attach volume
+<img src="ebs.png"> 
 ```
 $sudo -i
 #root-fdisk /dev/xvdf
