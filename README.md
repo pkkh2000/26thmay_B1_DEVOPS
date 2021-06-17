@@ -1,7 +1,7 @@
 
   ## Install Docker
 ```
-<ul>
+<ul style="list-style-type:disc;" >
    <li>sudo apt-get update</li>
    <li>sudo apt-get install \
       apt-transport-https \
