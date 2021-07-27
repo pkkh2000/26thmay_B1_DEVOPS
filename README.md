@@ -21,9 +21,10 @@ $sudo mount  /dev/xvdf1/mnt/new
 $sudo df-hT 
 ```
 ## 4.Install apache web server
+```
 $ sudo apt install apache2
 $ sudo systemctl status apache2
-
+```
 ## 5.Change apache web serevr root directory path  /var/www/html  to /mnt/new
 ```
 root#- cd /var/www
